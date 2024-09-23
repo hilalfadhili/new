@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+}.one{
+    position: relative;
+   right: 640px;
+    text-align: center;
+    top: 150px;
+}
+h4{
+    position: relative;
+   right: 640px;
+    text-align: center;
+    top: 150px;
+    color: aliceblue; 
+}
+.contact_link_box{
+    position: relative;
+    right: 640px;
+    text-align: center;
+    top: 150px;
+}
+h2{
+    color: bisque;
+    position: relative;
+    text-align: center;
+}
+h1{
+    color: azure;
+    text-align: center;
+}
+.detail-box{
+    color: beige;
+}
+p{
+    color: bisque;
+}
+.two{
+    position: relative;
+    right: 640px;
+     text-align: center;
+     top: 150px;
+     color: aliceblue; 
+ }
+ p{
+    text-align: center;
+ }
+ h3{
+    text-align: center;
+    color: antiquewhite;
+    background: linear-gradient(red, green);
+    background-clip: text;
+    color: transparent;
+ }
